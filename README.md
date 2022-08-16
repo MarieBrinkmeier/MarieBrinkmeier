@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MarieBrinkmeier
-- 👀 I’m interested in development of mobile applications
-- 🌱 I’m currently learning flutter
-
+- 💙 I'm interested in development of flutter applications
+- 👩🏽‍💻 working as ux-developer with flutter
 
 <!---
 MarieBrinkmeier/MarieBrinkmeier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
